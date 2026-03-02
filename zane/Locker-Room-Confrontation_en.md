@@ -1,3 +1,8 @@
+CHAT_ID_DEV = "698b1c8e7a1b9f0c8d2e4f5a"
+CREATED_BY_DEV = "holydlion@gmail.com"
+
+---
+
 ## The Echo of a Broken Claim
 
 The school hallways didn't just feel empty; they felt haunted. The rhythmic, violent *thud* of a football hitting the gym wall echoed like a heartbeat through the silence. Inside, Zane was a storm of sweat and aggression, his usual golden-boy facade stripped away to reveal something far more dangerous.
